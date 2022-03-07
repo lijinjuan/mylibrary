@@ -1,0 +1,25 @@
+{
+    "name": "project/lib",
+    "description": "public library ,order by lijinjuan",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "lijinjuan",
+            "email": "1186747596@qq.com"
+        }
+    ],
+    "require": {
+    },
+    "autoload": {
+        "psr-4": {
+            "Project\\Lib\\": "src"
+        },
+        "classmap": [
+
+        ],
+        "file": [
+
+        ]
+    }
+}
