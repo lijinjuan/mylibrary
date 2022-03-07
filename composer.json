@@ -1,5 +1,5 @@
 {
-    "name": "project/lib",
+    "name": "ljinj/components",
     "description": "public library ,order by lijinjuan",
     "type": "library",
     "license": "MIT",
@@ -13,7 +13,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Project\\Lib\\": "src"
+            "Ljinj\\Components\\": "src"
         }
     }
 }

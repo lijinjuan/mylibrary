@@ -6,5 +6,5 @@ $vendorDir = dirname(dirname(__FILE__));
 $baseDir = dirname($vendorDir);
 
 return array(
-    'Project\\Lib\\' => array($baseDir . '/src'),
+    'Ljinj\\Components\\' => array($baseDir . '/src'),
 );
