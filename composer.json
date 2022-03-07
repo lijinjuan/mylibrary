@@ -14,12 +14,6 @@
     "autoload": {
         "psr-4": {
             "Project\\Lib\\": "src"
-        },
-        "classmap": [
-
-        ],
-        "file": [
-
-        ]
+        }
     }
 }
